@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//:DuncanMoyo.github.io/navbarWithDropDown/static/css/main.70c8f130.chunk.css",
+    "main.js": "/http//:DuncanMoyo.github.io/navbarWithDropDown/static/js/main.380823c5.chunk.js",
+    "main.js.map": "/http//:DuncanMoyo.github.io/navbarWithDropDown/static/js/main.380823c5.chunk.js.map",
+    "runtime-main.js": "/http//:DuncanMoyo.github.io/navbarWithDropDown/static/js/runtime-main.d1d2ee4e.js",
+    "runtime-main.js.map": "/http//:DuncanMoyo.github.io/navbarWithDropDown/static/js/runtime-main.d1d2ee4e.js.map",
+    "static/js/2.8e05febc.chunk.js": "/http//:DuncanMoyo.github.io/navbarWithDropDown/static/js/2.8e05febc.chunk.js",
+    "static/js/2.8e05febc.chunk.js.map": "/http//:DuncanMoyo.github.io/navbarWithDropDown/static/js/2.8e05febc.chunk.js.map",
+    "index.html": "/http//:DuncanMoyo.github.io/navbarWithDropDown/index.html",
+    "precache-manifest.2e66308849a042bbfe6e0732ca458118.js": "/http//:DuncanMoyo.github.io/navbarWithDropDown/precache-manifest.2e66308849a042bbfe6e0732ca458118.js",
+    "service-worker.js": "/http//:DuncanMoyo.github.io/navbarWithDropDown/service-worker.js",
+    "static/css/main.70c8f130.chunk.css.map": "/http//:DuncanMoyo.github.io/navbarWithDropDown/static/css/main.70c8f130.chunk.css.map",
+    "static/js/2.8e05febc.chunk.js.LICENSE.txt": "/http//:DuncanMoyo.github.io/navbarWithDropDown/static/js/2.8e05febc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/http//:DuncanMoyo.github.io/navbarWithDropDown/static/media/img-7.66001cf8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1d2ee4e.js",
+    "static/js/2.8e05febc.chunk.js",
+    "static/css/main.70c8f130.chunk.css",
+    "static/js/main.380823c5.chunk.js"
+  ]
+}
