@@ -33,7 +33,7 @@ const Navbar = () => {
   return (
     <>
       <nav className="navbar">
-        <Link to="/" className="navbar-logo">
+        <Link to="/navbarWithDropDown" className="navbar-logo">
           EPIC <FaFirstdraft />
         </Link>
         <div className="menu-icon" onClick={handleClick}>
@@ -41,7 +41,7 @@ const Navbar = () => {
         </div>
         <ul className={click ? "nav-menu active" : "nav-menu"}>
           <li className="nav-item">
-            <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+            <Link to="/navbarWithDropDown" className="nav-links" onClick={closeMobileMenu}>
               Home
             </Link>
           </li>
