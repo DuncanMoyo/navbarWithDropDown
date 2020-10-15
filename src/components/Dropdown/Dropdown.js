@@ -3,7 +3,7 @@ import "./Dropdown.css";
 import { Link } from "react-router-dom";
 import { MenuItems } from "../MenuItems/MenuItems";
 
-function Dropdown() {
+const Dropdown = () => {
   const [click, setClick] = useState(false);
 
   const handleClick = () => setClick(!click);
@@ -14,15 +14,15 @@ function Dropdown() {
         onClick={handleClick}
         className={click ? "dropdown-menu clicked" : "dropdown-menu"}
       >
-        {MenuItems.map((item, index) => {
+        {MenuItems.map(({cName, title, path, index}) => {
           return (
             <li key={index}>
               <Link
-                className={item.cName}
-                to={item.path}
+                className={cName}
+                to={path}
                 onClick={() => setClick(false)}
               />
-              {item.title}
+              {title}
             </li>
           );
         })}

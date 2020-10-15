@@ -81,3 +81,14 @@
   color: #fff;
   font-size: 100px;
 }
+
+@media screen and (max-width: 600px) {
+  .services, .contact-us {
+    font-size: 85px;
+    text-align: center;
+  }
+  .products {
+    font-size: 73px;
+  }
+
+}
